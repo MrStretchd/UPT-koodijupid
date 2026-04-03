@@ -1,7 +1,7 @@
 import pandas as pd
 
 csv_file = 'andmed/uuemad_andmed.csv'
-excel_file = 'andmed/ajaloolised_andmed_1941-2003.xlsx'
+excel_file = 'andmed/ajaloolised_andmed.xlsx'
 output_file = 'andmed/koondatud_tabel.xlsx'
 UURITAVAD_KELLAAJAD = ["05:00", "11:00", "17:00", "23:00"]
 
